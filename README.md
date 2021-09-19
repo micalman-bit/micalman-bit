@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi, i'm Andrey 👋
 
+- 🔭 I’m currently working on all things Apple - iOS, WatchOS, tvOS, macOS
+- 🌱 I’m currently learning Fluter and continue to learn all things Apple
+- 👯 Alwais looking to collaborate
+- 💬 Ask me about all things iOS
+- 📫 Let's connect - Telegram: @micalman | Mail: micalman@list.ru
 <!--
 **micalman-bit/micalman-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
