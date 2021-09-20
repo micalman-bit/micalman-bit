@@ -1,6 +1,6 @@
 ### Hi, i'm Andrey 👋
 
-- 🔭 I’m currently working on all things Apple - iOS, WatchOS, tvOS, macOS
+- 🔭 Currently I am working on everything related to Apple - iOS, WatchOS, tvOS, macOS
 - 🌱 I’m currently learning Fluter and continue to learn all things Apple
 - 👯 Alwais looking to collaborate
 - 💬 Ask me about all things iOS
